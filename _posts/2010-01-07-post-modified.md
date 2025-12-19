@@ -1,5 +1,7 @@
 ---
 title: "Post: Modified Date"
+header:
+  image: "/assets/images/AGU_Poster_Good1-1 copy.png"
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - Blog
