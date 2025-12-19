@@ -4,5 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+header:
+  image: "/assets/images/AGU_Poster_Good1-1 copy.png"
 ---
-# HELLO MY NAME IS MARISSA
