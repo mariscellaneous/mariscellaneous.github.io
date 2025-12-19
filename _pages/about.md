@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 header:
   image: "/assets/images/AGU_Poster_Good1-1 copy.png"
