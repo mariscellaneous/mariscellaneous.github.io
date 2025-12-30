@@ -5,5 +5,5 @@
 layout: single
 author_profile: true
 header:
-  image: "/assets/images/AGU_Poster_Good1-1 copy.png"
+  image: "/assets/images/background_image.jpg"
 ---
