@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Marissa Dattler"
   avatar : "/assets/images/Profile_picture.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A data-driven atmospheric scientist"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
