@@ -49,7 +49,7 @@ header:
 
       <p class="science-summary">
         In this paper, we pioneer a novel, physics based method using the Snow Radiative Transfer model to determine melt on ice sheets and ice shelves in the Antarctic.
-        Check out our work in The Cryosphere!
+        Check out our work in <i>The Cryosphere</i>!
       </p>
 
       <a class="science-link" href="https://tc.copernicus.org/articles/18/3613/2024/tc-18-3613-2024.html" target="_blank" rel="noopener noreferrer">
@@ -98,7 +98,7 @@ header:
       </p>
 
       <p class="science-summary">
-        Interested in fine-scale, relative variations in snow accumulation? Look no further than our airborne product published in GRL!
+        Interested in fine-scale, relative variations in snow accumulation? Look no further than our airborne product published in <i>GRL</i>!
       </p>
 
       <a class="science-link" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085363" target="_blank" rel="noopener noreferrer">
