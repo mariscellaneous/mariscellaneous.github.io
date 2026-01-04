@@ -101,7 +101,7 @@ header:
         Interested in fine-scale, relative variations in snow accumulation? Look no further than our airborne product published in GRL!
       </p>
 
-      <a class="science-link" href="(https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085363" target="_blank" rel="noopener noreferrer">
+      <a class="science-link" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085363" target="_blank" rel="noopener noreferrer">
         Read publication
       </a>
     </article>
