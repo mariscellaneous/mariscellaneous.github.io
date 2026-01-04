@@ -99,7 +99,7 @@ header:
     .video-wrap {
       position: relative;
       width: 100%;
-      padding-top: 56.25%;
+      padding-top: 1%;
       border-radius: 12px;
       overflow: hidden;
       background: #f3f4f6;
