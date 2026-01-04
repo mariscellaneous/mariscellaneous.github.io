@@ -5,7 +5,7 @@ header:
   image: "/assets/images/background_image.jpg"
 ---
 <section class="science" aria-labelledby="science-title">
-  <h2 id="science-title">Science</h2>
+  <h2 id="science-title"> </h2>
 
   <div class="science-list">
     <!-- 2024 — Talk -->
