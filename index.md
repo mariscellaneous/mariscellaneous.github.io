@@ -62,20 +62,19 @@ header:
       letter-spacing: -0.02em;
     }
 
+    /* Always stacked (one column) */
     .talk-grid {
       display: grid;
-      gap: 1rem;
       grid-template-columns: 1fr;
+      gap: 1rem;
     }
 
-    @media (min-width: 900px) {
-      .talk-grid {
-        grid-template-columns: 1fr 1fr;
-        gap: 1.25rem;
-      }
-    }
-
+    /* Optional: keep cards from getting too wide on large screens */
     .talk-card {
+      max-width: 860px;
+      width: 100%;
+      margin: 0 auto;
+
       background: #ffffff;
       border: 1px solid #e5e7eb;
       border-radius: 14px;
@@ -97,7 +96,6 @@ header:
       white-space: nowrap;
     }
 
-    /* Responsive 16:9 video */
     .video-wrap {
       position: relative;
       width: 100%;
