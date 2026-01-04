@@ -8,7 +8,7 @@ header:
 <section class="talks" aria-labelledby="talks-title">
   <h2 id="talks-title">Scientific Presentations</h2>
 
-  <div class="talk-grid">
+  <div class="talk-list">
     <article class="talk-card">
       <h3 class="talk-title">
         A first look at airborne-derived firn compaction across the Greenland Ice Sheet
@@ -62,14 +62,13 @@ header:
       letter-spacing: -0.02em;
     }
 
-    /* Always stacked (one column) */
-    .talk-grid {
+    /* Always stacked */
+    .talk-list {
       display: grid;
       grid-template-columns: 1fr;
       gap: 1rem;
     }
 
-    /* Optional: keep cards from getting too wide on large screens */
     .talk-card {
       max-width: 860px;
       width: 100%;
@@ -96,21 +95,20 @@ header:
       white-space: nowrap;
     }
 
+    /* Robust responsive video sizing */
     .video-wrap {
-      position: relative;
+      aspect-ratio: 16 / 9;
       width: 100%;
-      padding-top: 1%;
       border-radius: 12px;
       overflow: hidden;
       background: #f3f4f6;
     }
 
     .video-wrap iframe {
-      position: absolute;
-      inset: 0;
       width: 100%;
       height: 100%;
       border: 0;
+      display: block;
     }
   </style>
 </section>
