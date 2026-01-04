@@ -134,7 +134,7 @@ header:
       max-width: 860px;
       width: 100%;
       margin: 0 auto;
-      background: #ffffff;
+      background: #b9c7e2;
       border: 1px solid #e5e7eb;
       border-radius: 14px;
       padding: 1rem;
