@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image: "/assets/images/background_image.jpg"
+  image: "/assets/images/HeaderPhoto.jpg"
 ---
 <section class="science" aria-labelledby="science-title">
 
